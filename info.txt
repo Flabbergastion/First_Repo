@@ -1,2 +1,1 @@
-Hello I am Max G and thi
-s is a test commit for this repository.
+Hello I am Max G and this is a test commit for this repository.
