@@ -1,1 +1,2 @@
-Hello I am Max G and thiks is a test commit for this repository.
+Hello I am Max G and thi
+s is a test commit for this repository.
